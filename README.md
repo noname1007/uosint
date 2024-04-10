@@ -28,13 +28,15 @@
 <br>
 <span>🍊 <b>Features</b></span>
 
-<span>• 🔎 This can collect user information from 35+ website and more websites will be added in the future </span>
+<span>• 🔎 This can collect user information from **63 Website** and more websites will be added in the future </span>
 
 <span>• 💫 If the user's profile is <b>Lock</b> or <b>Suspended</b> or <b>Private</b>, It will also be reported</span>
 
 <span>• 💪 Information will be collected from many website such as <b>Social Media</b>, <b>Dating Platform</b>, <b>Music</b>, <b>Programming</b>, <b>Forum</b>, <b>Entertainment</b>, <b>Porn</b>, <b>Video Share Platform</b> </span>
 
-<span>• 📝 Sometime user write **Email** & **Phone Number** in there Bio, in that case **Email** & **Phone Number** will be **Detected** and if it is Email & Number will be search **Data Breached** & **Leaked DataBase** </span>
+<span>• 📝 This tool can be search **Email** & **Phone Number** on **Data Breached** & **Leaked DataBase** </span>
+
+<span>• 🔮 Sometime user write some Information on Bio. Now this tool can be **Detected**, **Email** & **Phone Number** & **Mention People** from **USER Bio** </span>
 
 ## Installation
 
@@ -73,6 +75,12 @@ Our target in this project is to extract information from 300+ websites and we w
 <p align=center>
   <br>
   <a target="_blank"><img src="./modules/image/usernames.PNG"></a></br>
+</p>
+
+## WorkFlow
+<p align=center>
+  <br>
+  <a target="_blank"><img src="./modules/image/WorkFlow.jpg"></a></br>
 </p>
   
 ## License
